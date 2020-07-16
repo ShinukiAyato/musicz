@@ -1,0 +1,5 @@
+{
+	"MAX_PLAYLIST_SIZE": 25,
+	"PREFIX": "`",
+  "PRUNING": true
+}
